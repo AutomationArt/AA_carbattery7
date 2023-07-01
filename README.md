@@ -7,6 +7,18 @@
 ###  How does it work?
 You just connect the device to the battery and get the result on the screen/browser (in development)
 
+### Main features
+
+- Voltage measurement range 7-36 volts
+- LED indicator 3 pieces (3 different colors)
+- Display for information output (optional)
+- Load connection and power measurement (2A max, optional)
+- Audible indicator for warning
+- Temperature sensor connection (optional)
+- User button for your functions
+- External antenna connection for long-distance Wifi/Bluetooth
+- Possibility to connect sensors via UART
+
 ### Examples of use
 - Measuring vehicle battery voltage
 - Measurement of any battery voltage
