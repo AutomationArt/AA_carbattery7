@@ -1,8 +1,15 @@
+## CarBat (for Automation.art)
+
 - Case - case for 3D printing for this device
-- Code - code examples
+- Code - code examples  
 - Docs - documents for chips
 - Image - photo of the ready device
 - Pcb - all files for the pcb making
+
+#### Right away about bugs that were fixed in the scheme after the first prototype
+
+!Voltage divider of 10k and 37k on DCDC feedback (were both 37)
+!PH and BOOT  - Changing the capacitor connection
 
 ###  How does it work?
 You just connect the device to the battery and get the result on the screen/browser (in development)
